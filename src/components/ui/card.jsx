@@ -8,4 +8,4 @@ function Card({content}) {
   )
 }
 
-export default Card
+export default Card;
